@@ -37,17 +37,11 @@ This project analyses a dataset of hotel reviews and build a machine learning mo
 
 ### 5. Extra improvement
 
-We combine the best model found with [VADER](https://github.com/cjhutto/vaderSentiment) using a stacking method to improvement its performance.
+We combine the best model found with [VADER](https://github.com/cjhutto/vaderSentiment) using a stacking method to improve its performance.
 
 ## Results
 
 The best models are summarised in the table below.
-
-<style>
-  th, td {
-    text-align: center;
-  }
-</style>
 
 <table>
   <tr>
